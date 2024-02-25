@@ -1,0 +1,258 @@
+[
+    {
+        "category": "Web Development",
+        "job_title": "Front-End Developer",
+        "deadline": "2023-11-9",
+        "minimumPrice": 4800,
+        "maximumPrice": 5200,
+        "short_description": "Seeking a skilled Front-End Developer to join our team. You will be responsible for creating responsive and interactive user interfaces using the latest web technologies. Apply now!",
+        "email": "frontend.dev@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "Back-End Developer",
+        "deadline": "2023-12-22",
+        "minimumPrice": 5300,
+        "maximumPrice": 5700,
+        "short_description": "We're looking for an experienced Back-End Developer to work on server-side development and database management. Join us in building robust and efficient web applications.",
+        "email": "backend.dev@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "Full Stack Developer",
+        "deadline": "2023-11-12",
+        "minimumPrice": 6300,
+        "maximumPrice": 6700,
+        "short_description": "Are you a Full Stack Developer with expertise in both front-end and back-end technologies? Join our dynamic team and contribute to the development of cutting-edge web solutions.",
+        "email": "fullstack.dev@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "UI/UX Designer",
+        "deadline": "2023-11-16",
+        "minimumPrice": 4600,
+        "maximumPrice": 5000,
+        "short_description": "We are seeking a creative UI/UX Designer to craft engaging and user-friendly interfaces. If you have a keen eye for design and user experience, apply now and bring your designs to life!",
+        "email": "uiux.designer@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "PHP Developer",
+        "deadline": "2023-11-6",
+        "minimumPrice": 5000,
+        "maximumPrice": 5400,
+        "short_description": "Join our team as a PHP Developer and work on developing and maintaining server-side applications. Take on exciting projects and be part of our web development journey.",
+        "email": "php.dev@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "JavaScript Developer",
+        "deadline": "2023-12-15",
+        "minimumPrice": 5600,
+        "maximumPrice": 6000,
+        "short_description": "Looking for a JavaScript Developer to build interactive and dynamic web applications. If you're passionate about client-side development, this opportunity is for you!",
+        "email": "js.dev@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "Web Project Manager",
+        "deadline": "2023-9-6",
+        "minimumPrice": 6800,
+        "maximumPrice": 7200,
+        "short_description": "We're hiring a Web Project Manager to lead and coordinate web development projects. Ensure timely delivery and quality execution of web solutions. Apply now!",
+        "email": "web.project.manager@example.com"
+    },
+    {
+        "category": "Web Development",
+        "job_title": "SEO Specialist",
+        "deadline": "2023-11-12",
+        "minimumPrice": 4400,
+        "maximumPrice": 4800,
+        "short_description": "Join our team as an SEO Specialist and optimize web content for search engines. Help drive organic traffic and improve online visibility for our clients.",
+        "email": "seo.specialist@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Digital Marketing Manager",
+        "deadline": "2023-11-10",
+        "minimumPrice": 550,
+        "maximumPrice": 750,
+        "short_description": "Lead and execute digital marketing strategies. Oversee SEO, SEM, social media, and email campaigns to drive growth and engagement.",
+        "email": "digital.manager@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Content Marketing Specialist",
+        "deadline": "2023-11-9",
+        "minimumPrice": 400,
+        "maximumPrice": 600,
+        "short_description": "Create compelling content for blogs, social media, and email. Develop content calendars, optimize for SEO, and measure performance.",
+        "email": "content.specialist@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Paid Advertising Manager",
+        "deadline": "2023-10-6",
+        "minimumPrice": 650,
+        "maximumPrice": 850,
+        "short_description": "Manage PPC and display advertising. Optimize ad spend, create ad copy, and analyze data to improve ROI.",
+        "email": "paid.manager@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Social Media Analyst",
+        "deadline": "2023-12-6",
+        "minimumPrice": 300,
+        "maximumPrice": 500,
+        "short_description": "Analyze social media data, track KPIs, and generate reports. Provide insights to improve social media strategies and engagement.",
+        "email": "social.analyst@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Email Marketing Coordinator",
+        "deadline": "2023-6-16",
+        "minimumPrice": 250,
+        "maximumPrice": 450,
+        "short_description": "Plan and execute email marketing campaigns. Segment lists, create engaging emails, and measure the success of email marketing efforts.",
+        "email": "email.coordinator@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "SEO Specialist",
+        "deadline": "2023-7-10",
+        "minimumPrice": 500,
+        "maximumPrice": 700,
+        "short_description": "Optimize website content for search engines. Conduct keyword research, on-page SEO, and monitor site performance.",
+        "email": "seo.specialist@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Influencer Marketing Manager",
+        "deadline": "2023-11-8",
+        "minimumPrice": 600,
+        "maximumPrice": 800,
+        "short_description": "Develop and manage influencer marketing campaigns. Identify influencers, negotiate partnerships, and track campaign success.",
+        "email": "influencer.manager@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Social Media Content Creator",
+        "deadline": "2023-11-6",
+        "minimumPrice": 350,
+        "maximumPrice": 550,
+        "short_description": "Create engaging social media content, including graphics and videos. Manage content calendars and engage with followers.",
+        "email": "social.creator@example.com"
+    },
+    {
+        "category": "Digital Marketing",
+        "job_title": "Data Analyst",
+        "deadline": "2023-11-12",
+        "minimumPrice": 450,
+        "maximumPrice": 650,
+        "short_description": "Analyze marketing data to provide insights and recommendations. Use data visualization tools and",
+        "email": "data.analyst@example.com"
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Graphic Designer",
+        "deadline": "2023-11-7",
+        "minimumPrice": 2000,
+        "maximumPrice": 3000,
+        "email": "example@email.com",
+        "short_description": "Looking for a talented Graphic Designer to create stunning visual content for our marketing campaigns"
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "UI/UX Designer",
+        "deadline": "2023-11-15",
+        "minimumPrice": 2500,
+        "maximumPrice": 3500,
+        "email": "designer@email.com",
+        "short_description": "We need a creative UI/UX Designer to improve user experience and design intuitive interfaces for our web and mobile applications."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Logo Designer",
+        "deadline": "2023-11-12",
+        "minimumPrice": 800,
+        "maximumPrice": 1200,
+        "email": "logo@example.com",
+        "short_description": "Seeking a Logo Designer to craft unique and memorable logos for our clients' brands."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Illustrator",
+        "deadline": "2023-11-18",
+        "minimumPrice": 1500,
+        "maximumPrice": 2500,
+        "email": "illustrator@company.com",
+        "short_description": "Join our team as an Illustrator and bring creativity to life through captivating illustrations and artworks."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Web Designer",
+        "deadline": "2023-7-6",
+        "minimumPrice": 2200,
+        "maximumPrice": 3200,
+        "email": "webdesign@example.com",
+        "short_description": "We are looking for a Web Designer to design attractive and functional websites that engage users."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Packaging Designer",
+        "deadline": "2023-11-16",
+        "minimumPrice": 1200,
+        "maximumPrice": 2000,
+        "email": "packaging@designer.com",
+        "short_description": "Are you a skilled Packaging Designer? Join us in creating eye-catching packaging for our products."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Print Designer",
+        "deadline": "2023-11-13",
+        "minimumPrice": 1800,
+        "maximumPrice": 2800,
+        "email": "printdesign@company.com",
+        "short_description": "We need a creative Print Designer to produce high-quality designs for various print materials."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Digital Artist",
+        "deadline": "2023-11-17",
+        "minimumPrice": 2000,
+        "maximumPrice": 3000,
+        "email": "digital@artist.com",
+        "short_description": "Join our team as a Digital Artist and create stunning digital artworks and illustrations."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Motion Graphics Designer",
+        "deadline": "2023-11-19",
+        "minimumPrice": 2500,
+        "maximumPrice": 3500,
+        "email": "motion@designs.com",
+        "short_description": "We are seeking a Motion Graphics Designer to produce captivating animations and motion graphics for our projects."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Brand Identity Designer",
+        "deadline": "2023-11-20",
+        "minimumPrice": 2200,
+        "maximumPrice": 3200,
+        "email": "brand@designs.com",
+        "short_description": "Join our team as a Brand Identity Designer and help clients establish a strong and unique brand identity."
+    },
+    {
+        "category": "Graphics Design",
+        "job_title": "Social Media Graphic Designer",
+        "deadline": "2023-11-21",
+        "minimumPrice": 1800,
+        "maximumPrice": 2800,
+        "email": "social@designer.com",
+        "short_description": "We are lookinging for a Social Media Graphic Designer to create eye-catching graphics for our social media channels."
+    }
+]
+
+
+
+
